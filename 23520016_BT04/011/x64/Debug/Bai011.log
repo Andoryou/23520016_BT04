@@ -1,0 +1,4 @@
+﻿  Bai011.cpp
+E:\Mảng 2 chiều\Bai011\Bai011.cpp(25,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Mảng 2 chiều\Bai011\Bai011.cpp(41,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Bai011.vcxproj -> E:\Mảng 2 chiều\x64\Debug\Bai011.exe

@@ -1,0 +1,5 @@
+﻿  Bai136.cpp
+F:\daihoc\NMLT\code\Ma tran\Matrix\Bai136\Bai136.cpp(68,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+F:\daihoc\NMLT\code\Ma tran\Matrix\Bai136\Bai136.cpp(70,6): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+F:\daihoc\NMLT\code\Ma tran\Matrix\Bai136\Bai136.cpp(82): warning C4715: 'ktnt': not all control paths return a value
+  Bai136.vcxproj -> F:\daihoc\NMLT\code\Ma tran\Matrix\x64\Debug\Bai136.exe

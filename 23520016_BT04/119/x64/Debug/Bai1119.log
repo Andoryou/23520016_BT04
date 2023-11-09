@@ -1,0 +1,4 @@
+﻿  Bai119.cpp
+F:\daihoc\NMLT\Gop\MATRIX\matrix\Bai1119\Bai119.cpp(29,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+F:\daihoc\NMLT\Gop\MATRIX\matrix\Bai1119\Bai119.cpp(32,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Bai1119.vcxproj -> F:\daihoc\NMLT\Gop\MATRIX\matrix\x64\Debug\Bai1119.exe

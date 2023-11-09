@@ -1,0 +1,3 @@
+﻿  Bai113.cpp
+F:\daihoc\NMLT\Gop\MATRIX\matrix\Bai113\Bai113.cpp(26,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Bai113.vcxproj -> F:\daihoc\NMLT\Gop\MATRIX\matrix\x64\Debug\Bai113.exe

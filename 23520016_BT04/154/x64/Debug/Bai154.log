@@ -1,0 +1,5 @@
+﻿  Bai154.cpp
+F:\daihoc\NMLT\code\Ma tran\Matrix\Bai154\Bai154.cpp(12,12): warning C4101: 'c': unreferenced local variable
+F:\daihoc\NMLT\code\Ma tran\Matrix\Bai154\Bai154.cpp(53,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+F:\daihoc\NMLT\code\Ma tran\Matrix\Bai154\Bai154.cpp(55,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Bai154.vcxproj -> F:\daihoc\NMLT\code\Ma tran\Matrix\x64\Debug\Bai154.exe

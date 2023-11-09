@@ -1,0 +1,3 @@
+﻿  Bai107.cpp
+E:\Mảng 2 chiều\Bai107\Bai107.cpp(27,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Bai107.vcxproj -> E:\Mảng 2 chiều\x64\Debug\Bai107.exe

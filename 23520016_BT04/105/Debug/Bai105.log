@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\admin\desktop\array\bai105\source.cpp(34): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+  Bai105.vcxproj -> C:\Users\Admin\Desktop\Array\Debug\Bai105.exe

@@ -1,0 +1,6 @@
+﻿  Bai052.cpp
+F:\daihoc\NMLT\code\Ma tran\Matrix\Bai052\Bai052.cpp(64,18): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+F:\daihoc\NMLT\code\Ma tran\Matrix\Bai052\Bai052.cpp(80,18): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+F:\daihoc\NMLT\code\Ma tran\Matrix\Bai052\Bai052.cpp(82): warning C4715: 'ktCucTieu': not all control paths return a value
+F:\daihoc\NMLT\code\Ma tran\Matrix\Bai052\Bai052.cpp(66): warning C4715: 'ktCucDai': not all control paths return a value
+  Bai052.vcxproj -> F:\daihoc\NMLT\code\Ma tran\Matrix\x64\Debug\Bai052.exe

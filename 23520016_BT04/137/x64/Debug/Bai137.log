@@ -1,0 +1,4 @@
+﻿  Bai137.cpp
+E:\Mảng 2 chiều\Bai137\Bai137.cpp(28,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Mảng 2 chiều\Bai137\Bai137.cpp(31,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Bai137.vcxproj -> E:\Mảng 2 chiều\x64\Debug\Bai137.exe
